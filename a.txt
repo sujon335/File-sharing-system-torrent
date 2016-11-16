@@ -1,0 +1,5 @@
+Abstract: which project, what project
+Introduction:
+1. Modules of the subsystem (e.g. in course management system modules may be: exam, course, discussion etc.)
+2. functionalities of the subsystem (e.g. in course management system teacher upload, upgrade question)
+3. user of each subsystem
